@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 21 13:24:54 2021
-
-@author: pscha
-"""
 import requests
 from datetime import datetime, timedelta
 import traceback
